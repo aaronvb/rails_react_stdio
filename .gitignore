@@ -3,3 +3,4 @@ Gemfile.lock
 *.log
 gemfiles/*.lock
 *.swp
+node_modules
