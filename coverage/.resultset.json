@@ -1,0 +1,70 @@
+{
+  "Unit Tests": {
+    "coverage": {
+      "/Users/aaronvb/Projects/rails_react_stdio/lib/rails_react_stdio.rb": [
+        1,
+        1,
+        1
+      ],
+      "/Users/aaronvb/Projects/rails_react_stdio/lib/rails_react_stdio/configuration.rb": [
+        1,
+        1,
+        0,
+        null,
+        null,
+        1,
+        null,
+        null,
+        9,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/aaronvb/Projects/rails_react_stdio/lib/rails_react_stdio/react.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        null,
+        null,
+        1,
+        null,
+        1,
+        4,
+        null,
+        4,
+        4,
+        4,
+        null,
+        null,
+        1,
+        4,
+        1,
+        null,
+        3,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1454359162
+  }
+}

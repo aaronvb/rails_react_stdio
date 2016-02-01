@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
   s.author = ['Aaron Van Bokhoven']
   s.email = ['bokhoven@gmail.com']
 
+  s.add_development_dependency 'coveralls', '>= 0.8.10'
   s.add_development_dependency 'minitest-reporters', '>= 1.1.7'
   s.add_development_dependency 'shoulda-context', '>= 1.2.1'
 
