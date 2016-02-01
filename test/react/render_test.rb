@@ -9,7 +9,7 @@ class ReactRenderTest < Minitest::Test
     end
   end
 
-  context ' a rails react studio render' do
+  context 'a rails react studio render' do
     setup do
       @path_to_component =
         File.expand_path('../../helper_files/Hello.jsx', __FILE__)
@@ -28,6 +28,14 @@ class ReactRenderTest < Minitest::Test
     should 'not load a component' do
       result = RailsReactStdio::React.render('', {})
       assert_includes result, 'Cannot load component'
+    end
+
+    should 'pass props to component' do
+      result =
+        RailsReactStdio::React.render(
+          @path_to_component, message: 'foobar_message'
+        )
+      assert_includes result, 'foobar_message'
     end
   end
 end
