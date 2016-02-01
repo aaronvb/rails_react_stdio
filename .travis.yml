@@ -7,4 +7,3 @@ install:
  - npm install -g npm
  - npm install -g react-stdio
  - bundle install
- - npm install

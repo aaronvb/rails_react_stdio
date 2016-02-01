@@ -11,6 +11,7 @@ class ReactRenderTest < Minitest::Test
 
   context 'a rails react studio render' do
     setup do
+      RailsReactStdio.configuration.react_stdio_path = 'react-stdio'
       @path_to_component =
         File.expand_path('../../helper_files/Hello.jsx', __FILE__)
     end

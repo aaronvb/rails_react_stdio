@@ -13,7 +13,7 @@ module RailsReactStdio
   class Configuration
     attr_accessor :react_stdio_path
 
-    def initialize(react_stdio_path: nil)
+    def initialize(react_stdio_path = nil)
       self.react_stdio_path = react_stdio_path
     end
   end
