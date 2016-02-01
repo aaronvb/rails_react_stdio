@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/aaronvb/rails_react_stdio.svg?branch=master)](https://travis-ci.org/aaronvb/rails_react_stdio)
+***
 # rails_react_stdio
 
 This is a simple Ruby on Rails wrapper for [react-stdio](https://github.com/mjackson/react-stdio).
