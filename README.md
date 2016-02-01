@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/aaronvb/rails_react_stdio.svg?branch=master)](https://travis-ci.org/aaronvb/rails_react_stdio)
+[![Coverage Status](https://coveralls.io/repos/github/aaronvb/rails_react_stdio/badge.svg?branch=master)](https://coveralls.io/github/aaronvb/rails_react_stdio?branch=master)
 ***
 # rails_react_stdio
 
