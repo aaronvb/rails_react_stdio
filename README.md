@@ -6,7 +6,7 @@ This is a simple rails wrapper for [react-stdio](https://github.com/mjackson/rea
 Add `rails_react_stdio` to your gemfile:
 
 ```ruby
-gem 'rails_react_stdio', '~> 0.0.1'
+gem 'rails_react_stdio', '~> 0.1.0'
 ```
 
 If your path to react-stdio is not installed in the default location `/usr/local/bin/react-stdio`, add a configuration file to your initializers folder.
