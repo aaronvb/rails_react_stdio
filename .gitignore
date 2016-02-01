@@ -1,0 +1,5 @@
+*.gem
+Gemfile.lock
+*.log
+gemfiles/*.lock
+*.swp
