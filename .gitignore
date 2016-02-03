@@ -4,3 +4,4 @@ Gemfile.lock
 gemfiles/*.lock
 *.swp
 node_modules
+coverage
